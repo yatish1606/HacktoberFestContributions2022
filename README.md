@@ -1,3 +1,5 @@
+Contribute by forking this repo and creating a PR, or following below steps
+
 ### 1. Clone this repository
 
 ``` 
